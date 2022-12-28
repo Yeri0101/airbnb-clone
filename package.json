@@ -1,0 +1,17 @@
+{
+  "name": "airbnb-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Yeri0101/airbnb-clone.git",
+  "author": "yerinto martinez <yerinto.martinez@hotmail.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "@rails/webpacker": "5.4.3",
+    "react-scripts": "^5.0.1",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3"
+  }
+}
